@@ -1,0 +1,10 @@
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\bin\Debug\ImageResizer.exe.config
+D:\Developments\VisualStudio\Projects\ImageResizer\Builds\ImageResizer.exe.config
+D:\Developments\VisualStudio\Projects\ImageResizer\Builds\ImageResizer.exe
+D:\Developments\VisualStudio\Projects\ImageResizer\Builds\ImageResizer.pdb
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\ImageResizer.csprojResolveAssemblyReference.cache
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\StephanusDai.ImageResizer.Properties.Resources.resources
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\ImageResizer.csproj.GenerateResource.Cache
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\ImageResizer.exe
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\ImageResizer.pdb
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\StephanusDai.ImageResizer.FMain.resources

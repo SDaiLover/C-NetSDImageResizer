@@ -1,0 +1,2 @@
+D:\Developments\VisualStudio\Projects\ImageResizer\ImageResizer\Sources\bin\Debug\Sources.exe.config
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\bin\Debug\Sources.exe.config

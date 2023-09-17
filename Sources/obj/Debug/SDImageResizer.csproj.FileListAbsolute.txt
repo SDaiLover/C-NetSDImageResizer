@@ -1,0 +1,14 @@
+D:\Developments\VisualStudio\Projects\ImageResizer\Builds\SDImageResizer.exe.config
+D:\Developments\VisualStudio\Projects\ImageResizer\Builds\SDImageResizer.exe
+D:\Developments\VisualStudio\Projects\ImageResizer\Builds\SDImageResizer.pdb
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\SDImageResizer.csprojResolveAssemblyReference.cache
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\StephanusDai.SDImageResizer.FMain.resources
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\StephanusDai.SDImageResizer.Properties.Resources.resources
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\SDImageResizer.csproj.GenerateResource.Cache
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\SDImageResizer.exe
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\SDImageResizer.pdb
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\StephanusDai.SDImageResizer.FLoader.resources
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\StephanusDai.SDImageResizer.FOuput.resources
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\StephanusDai.SDImageResizer.FView.resources
+D:\Developments\VisualStudio\Projects\ImageResizer\Sources\obj\Debug\StephanusDai.SDImageResizer.FAbout.resources
+D:\Downloads\C-NetSDImageResizer-main\Builds\SDImageResizer.exe.config
